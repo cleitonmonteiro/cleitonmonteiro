@@ -1,6 +1,6 @@
 ### Cleiton Monteiro #solvechallenges 👋
 
-Hi, I'm Cleiton — a student software engineer at UFC. I love games!💕
+Hi, I'm Cleiton — a student software engineer at UFC and Mobile Developer. I love games!💕
 
 - 🌱 I’m currently learning mobile development.
 
@@ -8,10 +8,10 @@ More about me: https://cleitonmonteiro.github.io/
 
 ## Social
 
-- Twitter: https://twitter.com/kle1tin
+- Linkedin : https://www.linkedin.com/in/cleitonmonteiroz/
 - HackerRank: https://www.hackerrank.com/cleitonmonteiro
 - URI Online Judge: https://www.urionlinejudge.com.br/judge/pt/profile/260976
-- Instagram: https://www.instagram.com/kle1tin/
+- Instagram: https://www.instagram.com/cleitonmonteiroz/
 
 <!--
 **cleitonmonteiro/cleitonmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Cleiton Monteiro #solvechallenges 👋
 
-Hi, I'm Cleiton — a software engineer student at UFC and Mobile Developer. I love games!💕
+Hi, I'm Cleiton — Software Engineer / Mobile Developer. I love games!💕
 
 - 🌱 I’m currently learning mobile development.
 

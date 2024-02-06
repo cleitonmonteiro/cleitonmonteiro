@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
 
-  <a href="https://www.instagram.com/cleitonmonteiroz/" >
+  <a href="https://www.instagram.com/cleitonmonteiroj/" >
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>

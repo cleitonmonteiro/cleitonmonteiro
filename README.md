@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="https://cleitonmonteiro.github.io">
+  <a href="https://linktr.ee/cleitonmonteiro">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website"/>
   </a>
 
